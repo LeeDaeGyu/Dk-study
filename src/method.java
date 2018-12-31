@@ -39,7 +39,7 @@ public class method {
 		//인자부분에 어떤 배열이 들어온다는 것만 알려주면 돼서 배열 명은 상관없다
 		//하지만 인자랑 필드의 배열명은 같아야된다 같이 적용받아야해서
 	}
-	public static void main(String[] org) {
+	public static void main(String[] org)  {
 
 		
 		//	int[] result = calculate(3);
