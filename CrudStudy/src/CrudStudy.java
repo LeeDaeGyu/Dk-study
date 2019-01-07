@@ -7,7 +7,10 @@ public class CrudStudy {
 		Scanner first = new Scanner(System.in);
 		int number = first.nextInt();
 		
-		if(number==1) {
+		if(number==0) {
+			break;
+		}
+		else if(number==1) {
 			input();
 			}
 		else if(number==4) {
