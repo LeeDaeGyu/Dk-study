@@ -61,5 +61,8 @@ public class JavaSplit {
 			System.out.println(number[0]+"*"+i);
 		}
 		
+		
+	
+		
 	}
 }
